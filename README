@@ -1,0 +1,12 @@
+Todo: add c++11 flag to project in cmakelists (currently ommited, because there is something strange with that system config here)
+
+---X3DomGenerator
+A library for creating x3dom code from c++
+Possible to place arrows and cubes, tell which elements should be highlighted onhover and show onhover information.
+
+
+Usage:
+mkdir build 
+cd build
+cmake [-GNinja] ..
+[make|ninja]
